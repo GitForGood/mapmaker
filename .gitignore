@@ -1,0 +1,5 @@
+/build
+__pycache__/mapmaker.cpython-313.pyc
+build_exe.bat
+road_map_chalmers_karta.svg
+generate_svg.py
