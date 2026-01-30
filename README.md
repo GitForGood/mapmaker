@@ -136,12 +136,11 @@ Roads are styled with different widths and colors based on their importance:
 ## 📦 Requirements
 
 - Python 3.7+
-- No external dependencies for basic usage
+- No external dependencies for basic usage in the command line
 
-For building the Windows executable:
-```bash
-pip install pyinstaller
-```
+### Windows Executable
+
+Download the standalone version: [**MapMaker.exe**](dist/MapMaker.exe)
 
 ---
 
