@@ -7,6 +7,11 @@ MapMaker is a Python tool that converts OSM (OpenStreetMap) XML exports into cle
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+> ### 🚀 Quick Start — Windows Users
+> **[⬇️ Download MapMaker.exe](https://github.com/GitForGood/mapmaker/raw/main/dist/MapMaker.exe)** — No Python required!
+
+---
+
 ## ✨ Features
 
 - **One-shot conversion** — From OSM XML to SVG in a single command
